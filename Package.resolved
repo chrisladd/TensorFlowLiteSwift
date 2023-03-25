@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "TensorFlowLiteC",
+        "repositoryURL": "https://github.com/chrisladd/TensorFlowLiteC.git",
+        "state": {
+          "branch": null,
+          "revision": "4e5d93dda34fbdec85d2951a0f4d1f0868a0d44e",
+          "version": "0.0.1"
+        }
+      }
+    ]
+  },
+  "version": 1
+}

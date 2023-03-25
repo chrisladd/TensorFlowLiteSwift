@@ -10,7 +10,7 @@ let package = Package(
             targets: ["TensorFlowLite"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/chrisladd/TensorFlowLiteC.git", from: "0.0.1"))
+      .package(url: "https://github.com/chrisladd/TensorFlowLiteC.git", from: "0.0.1")
     ],
     targets: [
         .target(
